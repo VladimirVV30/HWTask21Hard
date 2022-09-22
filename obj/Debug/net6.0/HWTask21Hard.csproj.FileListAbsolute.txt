@@ -1,0 +1,15 @@
+C:\GeekBrains\Seminar3\HWTask21Hard\obj\Debug\net6.0\HWTask21Hard.csproj.AssemblyReference.cache
+C:\GeekBrains\Seminar3\HWTask21Hard\obj\Debug\net6.0\HWTask21Hard.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\Seminar3\HWTask21Hard\obj\Debug\net6.0\HWTask21Hard.AssemblyInfoInputs.cache
+C:\GeekBrains\Seminar3\HWTask21Hard\obj\Debug\net6.0\HWTask21Hard.AssemblyInfo.cs
+C:\GeekBrains\Seminar3\HWTask21Hard\obj\Debug\net6.0\HWTask21Hard.csproj.CoreCompileInputs.cache
+C:\GeekBrains\Seminar3\HWTask21Hard\bin\Debug\net6.0\HWTask21Hard.exe
+C:\GeekBrains\Seminar3\HWTask21Hard\bin\Debug\net6.0\HWTask21Hard.deps.json
+C:\GeekBrains\Seminar3\HWTask21Hard\bin\Debug\net6.0\HWTask21Hard.runtimeconfig.json
+C:\GeekBrains\Seminar3\HWTask21Hard\bin\Debug\net6.0\HWTask21Hard.dll
+C:\GeekBrains\Seminar3\HWTask21Hard\bin\Debug\net6.0\HWTask21Hard.pdb
+C:\GeekBrains\Seminar3\HWTask21Hard\obj\Debug\net6.0\HWTask21Hard.dll
+C:\GeekBrains\Seminar3\HWTask21Hard\obj\Debug\net6.0\refint\HWTask21Hard.dll
+C:\GeekBrains\Seminar3\HWTask21Hard\obj\Debug\net6.0\HWTask21Hard.pdb
+C:\GeekBrains\Seminar3\HWTask21Hard\obj\Debug\net6.0\HWTask21Hard.genruntimeconfig.cache
+C:\GeekBrains\Seminar3\HWTask21Hard\obj\Debug\net6.0\ref\HWTask21Hard.dll
